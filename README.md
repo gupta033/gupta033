@@ -5,7 +5,7 @@
 
 Developing scalable Windows Desktop Applications using C# .NET MVC
 
-Building integrated ReactJS frontends with robust backend systems
+Building integrated ReactJS frontends with backend systems
 
 Automating print & data processing workflows for enterprise systems
 
