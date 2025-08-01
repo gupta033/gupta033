@@ -1,38 +1,55 @@
-### Hi there! I'm [Yogendra Mishra] 👋  
+👋 Hi there! I'm Ashish Kumar Gupta
+💻 Software Developer | .NET MVC | C# | Windows Desktop | ReactJS | Core Java | MySQL | MS SQL Server
 
-💻 **Software Developer | Nodejs | Expressjs | Reactjs | Next.js | TypeScript | Tailwind CSS | Strapi | Docker | MongoDb | Mysql**  
+🔭 Currently working on:
 
----
+Developing scalable Windows Desktop Applications using C# .NET MVC
 
-🔭 **I’m currently working on:**  
-Building an online food expllorer website using **Next.js, TypeScript, Tailwind CSS, and gsap**.  
+Building integrated ReactJS frontends with robust backend systems
 
-🌱 **I’m currently learning:**  
-- Advanced **backend development** with **Strapi & Docker**  
-- Performance optimization in ** React js**  
-- Scaling web applications  
+Automating print & data processing workflows for enterprise systems
 
-👯 **I’m looking to collaborate on:**  
-- Open-source projects in **JavaScript/TypeScript**  
-- Headless CMS & e-commerce platforms  
+🌱 Currently learning:
 
-🤔 **I’m looking for help with:**  
-- **SEO & Performance tuning** for Reactjs applications  
-- **Efficient database design** for scalable e-commerce solutions  
+Advanced Windows API integration with C#
 
-💬 **Ask me about:**  
-- Building web apps with **React.js + Tailwind CSS**  
-- API development with **Strapi & Docker**  
-- Setting up **CMS-driven** web applications  
+Cross-platform desktop app optimization
 
-📫 **How to reach me:**  
-- **GitHub:** [@gamerhub7](https://github.com/gamerhub7)  
-- **Email:** [yogendramishrabetu@gmail.com]  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yogendra-mishra-/))  
+Scalable backend design with .NET Core + SQL Server
 
-⚡ **Fun fact:**  
-I love coding **dark mode-friendly** UIs and tweaking performance for that **extra speed boost!** 🚀  
+👯 Looking to collaborate on:
 
----
+Projects using C#/.NET, React, and Java backend systems
 
-Let's connect and build something awesome together! 🚀  
+ERP, label printing, or inventory management tools
+
+Hybrid apps combining desktop + web interfaces
+
+🤔 Looking for help with:
+
+Performance tuning in .NET desktop apps
+
+Advanced reporting and print integration (e.g., BarTender automation)
+
+Secure and scalable database architecture
+
+💬 Ask me about:
+
+Creating and deploying C# desktop apps with database integration
+
+Using .NET MVC for modern web & desktop workflows
+
+Integrating ReactJS frontends with backend APIs (.NET or Java)
+
+SQL optimization for MySQL & MS SQL Server
+
+📫 Reach me at:
+
+GitHub: https://github.com/gupta033/gupta033
+
+Email: [ashishkumargupta194@gmail.com]
+
+LinkedIn: linkedin.com/in/ashish-kumar-gupta-61630a228/
+
+⚡ Fun fact:
+I enjoy building fast, user-friendly desktop tools and linking them seamlessly with the web for real-world business workflows!
